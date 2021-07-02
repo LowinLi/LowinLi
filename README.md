@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning AI
+
+[![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=LowinLi&theme=nord&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)](https://github.com/LowinLi)
+
+
 <!--
 **LowinLi/LowinLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
