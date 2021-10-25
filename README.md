@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning AI
 
-[![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=LowinLi&theme=nord&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)](https://github.com/LowinLi)
+![LowinLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowinLi)
 
 
 <!--
