@@ -18,5 +18,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
+
 [![](https://img.shields.io/badge/Blog-lowin.li-red?style=for-the-badge&logo=blogger&logoColor=white)](https://lowin.li)
 [![](https://img.shields.io/badge/Email-lowinli%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lowinli@outlook.com)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://lowin.li/atom.xml)
