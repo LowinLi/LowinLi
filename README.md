@@ -10,6 +10,9 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/5C200EE260561E13?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/azure-solutions-architect-expert-600x600.png" width = "100"/>
     </a>
+<a href="https://learn.microsoft.com/api/credentials/share/zh-cn/lowinli/D969C625EBB7B1DC?sharingId=AI-MVP-5005006">
+    <img src="https://lowin.li/pic/az-400.png" width = "100"/>
+    </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/F4174EF4217DA77E?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/twitter_thumb_201604_azure-administrator-associate-600x600.png" width = "100"/>
     </a>
