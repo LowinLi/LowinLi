@@ -7,6 +7,7 @@
 <a href="https://mvp.microsoft.com/en-US/mvp/profile/8746f87f-c755-ed11-9561-000d3a197333">
     <img src="https://lowin.li/pic/ai-mvp-2023.png" width = "100"/>
     </a>
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/5C200EE260561E13?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/azure-solutions-architect-expert-600x600.png" width = "100"/>
     </a>
@@ -19,6 +20,10 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/328064CBC35051EA?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/microsoft-certified-azure-ai-engineer-associate.png" width = "100"/>
     </a>
+<a href="https://learn.microsoft.com/api/credentials/share/zh-cn/lowinli/C300B8006E662277?sharingId=AI-MVP-5005006">
+    <img src="https://lowin.li/pic/fabric2.png" width = "100"/>
+</a>
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/6CFAD18A78387C0F?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/microsoft-certified-azure-fundamentals.png" width = "100"/>
     </a>
