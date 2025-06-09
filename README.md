@@ -2,7 +2,12 @@
 
 🌱 I’m currently learning AI
 
-![LowinLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowinLi)
+## 📊 GitHub Statistics
+
+![LowinLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowinLi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LowinLi&layout=compact&theme=radical)
+
+## 🏆 Microsoft Certifications
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/lowinli/5C200EE260561E13?sharingId=AI-MVP-5005006">
     <img src="https://lowin.li/pic/azure-solutions-architect-expert-600x600.png" width = "100"/>
@@ -28,7 +33,8 @@
 
 
 
----
+## 💻 Tech Stack & Tools
+
 ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -51,5 +57,18 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
+## 📫 Contact Me
+
 [![](https://img.shields.io/badge/Email-lowinli%40outlook.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lowinli@outlook.com)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://lowin.li/atom.xml)
+
+## 🚀 Current Focus
+
+- 🤖 Building AI-powered applications with Python and PyTorch
+- ☁️ Designing scalable cloud solutions on Microsoft Azure
+- 🔧 Implementing DevOps best practices with Kubernetes and CI/CD
+- 📚 Continuously learning about emerging AI technologies
+
+---
+
+*"The future belongs to those who learn more skills and combine them in creative ways."* 🌟
